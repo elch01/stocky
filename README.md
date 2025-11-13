@@ -5,7 +5,9 @@ An SDL3 widget that is based on [Theldus/windy](https://github.com/Theldus/windy
 
 ## Introduction
 I've been enjoying Theldus's windy application for a while now for displaying the weather on my desktop.
+
 But i felt that i was missing a equally good looking widget that displays stocks information.
+
 Therefore i made some adjustments and ended up with what i call stocky (super original name lol)!
 
 <p align="center">
@@ -38,7 +40,7 @@ and then run:
 
 ### Detailed Explanation:
 
-Unlike most weather programs/widgets, Stocky doesn't attempt to embed one
+Unlike most programs/widgets, Stocky doesn't attempt to embed one
 or more APIs within itself. Instead, it delegates this responsibility to an
 external program/script.
 
