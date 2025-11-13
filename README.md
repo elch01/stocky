@@ -9,7 +9,7 @@ But i felt that i was missing a equally good looking widget that displays stocks
 Therefore i made some adjustments and ended up with what i call stocky (super original name lol)!
 
 <p align="center">
-<img align="center" src="https://i.imgur.com/Fz9L7iC.png" alt="Windy examples">
+<img width="768" height="677" alt="image" src="https://github.com/user-attachments/assets/e1f41b09-7b20-4f10-95e2-8bc9b290e8d2" />
 <br>
 Stocky examples
 </p>
