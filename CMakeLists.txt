@@ -5,7 +5,7 @@ set(CMAKE_C_STANDARD 99)
 
 add_executable(stocky
     main.c
-    stocks.c           # <--- was weather.c
+    stocks.c
     font.c
     image.c
     log.c
@@ -63,6 +63,5 @@ target_link_libraries(stocky PUBLIC m)
 file(COPY ${CMAKE_CURRENT_SOURCE_DIR}/assets
 	DESTINATION ${CMAKE_CURRENT_BINARY_DIR}/)
 
-# If your Python script is now stocks_request.py:
 file(COPY ${CMAKE_CURRENT_SOURCE_DIR}/stocks_request.py
 	DESTINATION ${CMAKE_CURRENT_BINARY_DIR}/)
