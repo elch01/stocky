@@ -77,7 +77,7 @@ $ ./stocky -h
 Usage: ./stocky [options] -c <command-to-run>
 
 Options:
-  -t <secs>    Interval (seconds) for stock updates (default: 60)
+  -t <secs>    Interval (seconds) for stock updates (default: 300)
   -c <command> Command to execute for updates (required)
   -x <pos>     Window X coordinate
   -y <pos>     Window Y coordinate
